@@ -30,7 +30,7 @@ The invited speakers and organizers of this workshop are the following:
 
 ### August 20, 2010 (Friday)
 **Chair: Moo Young Sohn**
-- **14:00–14:30** Sang-il Oum (KAIST): *TBA*
+- **14:00–14:30** Sang-il Oum (KAIST): *Hyperbolic surface subgroups of one-ended doubles of free groups*
 - **14:35–14:55** Hyun Kwang Kim (POSTECH): *Polytope numbers*
 - **14:55–15:10** Coffee Break
 
@@ -66,8 +66,10 @@ The invited speakers and organizers of this workshop are the following:
 
 
 ### Sang-il Oum (KAIST)
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** Hyperbolic surface subgroups of one-ended doubles of free groups  
+**Abstract:** Gromov asked whether every one-ended word-hyperbolic group contains a hyperbolic surface group. We prove that every one-ended double of a free group has a hyperbolic surface subgroup if (1) the free group has rank two, or (2) every generator is used the same number of times in the amalgamating words. To prove this, we formulate a stronger statement on Whitehead graphs and prove its specialization by combinatorial induction for (1) and the characterization of perfect matching polytopes by Edmonds for (2). 
+
+This is joint work with Sang-hyun Kim.
 
 ### Hyun Kwang Kim (POSTECH)
 **Title:** Polytope numbers  
